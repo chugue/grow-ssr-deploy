@@ -4,9 +4,12 @@
   <img src="https://github.com/chugue/grow-ssr-deploy/assets/30003848/a88227f4-671c-44aa-ad06-c50c97d41a82"  style="width: 50%; height: auto;"/>
 </p>
 
+<br>
+
 # 👉 발표 자료 PDF
 [미니 1차 휴먼 클라우드 PPT.pdf](https://github.com/chugue/grow-ssr-deploy/files/15454109/1.PPT.pdf)
 
+<br>
 <br>
 
 # 👉 프로젝트 소개 (핵심로직)
@@ -16,6 +19,7 @@
 * 기업 담당자는 공개된 이력서를 열람, 또는 각각의 공고에 대한 지원자를 확인하고 합격 여부를 결정할 수 있습니다.
 * 일반 사용자는 원하는 공고에 이력서를 지원 할 수 있습니다. 
 
+<br>
 <br>
 
 # 👉 개발팀 소개
@@ -46,6 +50,7 @@
 </table>
 
 <br>
+<br>
 
 # 👉 기술 스택
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
@@ -64,6 +69,7 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
 
 <br>
+<br>
 
 # 👉 테이블 모델링 
 
@@ -71,10 +77,12 @@
 
 
 <br>
+<br>
 
 # 👉 컨벤션
 [팀 컨벤션 정리 페이지 링크](https://stephenkiim.notion.site/fe91d2d1cd924164bce74602a8e0f22e?pvs=4)
 
+<br>
 <br>
 
 # 👉 주요 기능 정리
@@ -109,6 +117,7 @@
 * #### 🟦 기업 사진 CRUD 구현
 
 
+<br>
 <br>
 
 #  👉 기능 시연
