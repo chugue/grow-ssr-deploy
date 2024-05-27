@@ -8,7 +8,8 @@ group = 'shop.mtcoding'
 version = '0.0.1-SNAPSHOT'
 
 java {
-	sourceCompatibility = '21'
+	sourceCompatibility = JavaVersion.VERSION_21
+	targetCompatibility = JavaVersion.VERSION_21
 }
 
 configurations {
@@ -42,8 +43,7 @@ dependencies {
 tasks.named('test') {
 	useJUnitPlatform()
 }
-compileJava {	options.compilerArgs << '-parameters'}
+
 compileJava {
 	options.compilerArgs += ['-parameters']
 }
-
