@@ -1,27 +1,49 @@
-# GROW [ 구인ㆍ구직 프로젝트 ]
+# 👉 GROW [ 구인ㆍ구직 프로젝트 ]
 
 <p align="center">
-  <img src="https://github.com/chugue/project-grow/assets/153585866/f2ad7455-56f6-4895-8d65-94a5db14a179"  style="width: 50%; height: auto;"/>
+  <img src="https://github.com/chugue/grow-ssr-deploy/assets/30003848/a88227f4-671c-44aa-ad06-c50c97d41a82"  style="width: 50%; height: auto;"/>
 </p>
 
-___
-
-> ## 시연 영상 Youtube
-링크 걸기
-
-<br>
-
 > ## 발표 자료 PDF
-PDF 올리기
+[미니 1차 휴먼 클라우드 PPT.pdf](https://github.com/chugue/grow-ssr-deploy/files/15454109/1.PPT.pdf)
 
 <br>
 
-> ## 프로젝트 소개
-* 구직자는 이력서를, 구인 회사는 공고를 등록한다.
-* 구직자는 공고를 보고 입사 지원을 하고, 구인 회사는 이력서를 보고 구인 제안을 한다.
-* 구인 회사는 이력서를 보고 합격ㆍ불합격 통보를 할 수 있고, 구직자는 합격ㆍ불합격 통보를 확인할 수 있다.
+# 👉 프로젝트 소개 (핵심로직)
+* 그로우 프로젝트는 성장하다는 의미를 가지고 있으며, 이 플랫폼을 이용하는 지원자/기업 모두 같이 성장하자는 의미를 담고 있습니다.
+* 기업 담당자는 플랫폼에 회원가입을 하고 구인 공고를 등록합니다.
+* 일반 사용자는 플랫폼에 회원가입을 하고 자신의 이력서를 등록할 수 있습니다.
+* 기업 담당자는 공개된 이력서를 열람, 또는 각각의 공고에 대한 지원자를 확인하고 합격 여부를 결정할 수 있습니다.
+* 일반 사용자는 원하는 공고에 이력서를 지원 할 수 있습니다. 
 
 <br>
+
+# 👉 개발팀 소개
+
+
+<table style="width:100%; text-align:center;">
+  <tr>
+    <th style="text-align:center;">김성훈(팀장)</th>
+    <th style="text-align:center;">심유주</th>
+    <th style="text-align:center;">송채현</th>
+    <th style="text-align:center;">김지훈</th>
+    <th style="text-align:center;">하승진</th>
+  </tr>
+  <tr>
+    <td style="text-align:center; vertical-align:middle;"><img width="160px" src="https://avatars.githubusercontent.com/u/30003848?v=4" /></td>
+    <td style="text-align:center; vertical-align:middle;"><img width="160px" src="https://avatars.githubusercontent.com/u/153582123?v=4" /></td>
+    <td style="text-align:center; vertical-align:middle;"><img width="160px" src="https://avatars.githubusercontent.com/u/97007464?v=4"/></td>
+    <td style="text-align:center; vertical-align:middle;"><img width="160px" src="https://avatars.githubusercontent.com/u/81667935?v=4" /></td>
+    <td style="text-align:center; vertical-align:middle;"><img width="160px" src="https://avatars.githubusercontent.com/u/153582360?v=4" /></td>
+  </tr>
+  <tr>
+    <td style="text-align:center; vertical-align:middle;"><a href="https://github.com/chugue">@chugue</a></td>
+    <td style="text-align:center; vertical-align:middle;"><a href="https://github.com/kjh5848">@kjh5848</a></td>
+    <td style="text-align:center; vertical-align:middle;"><a href="https://github.com/LifeIsOne">@LifeIsOne</a></td>
+    <td style="text-align:center; vertical-align:middle;"><a href="https://github.com/tkffkels93">@tkffkels93</a></td>
+    <td style="text-align:center; vertical-align:middle;"><a href="https://github.com/p4rksk">@p4rksk</a></td>
+  </tr>
+</table>
 
 > ## 기술 스택
 ![기술스택](https://github.com/chugue/project-grow/assets/153585866/8f93f7a9-4368-4b70-830e-d3a9c2de545f)  
