@@ -4,7 +4,7 @@
   <img src="https://github.com/chugue/grow-ssr-deploy/assets/30003848/a88227f4-671c-44aa-ad06-c50c97d41a82"  style="width: 50%; height: auto;"/>
 </p>
 
-> ## 발표 자료 PDF
+# 👉 발표 자료 PDF
 [미니 1차 휴먼 클라우드 PPT.pdf](https://github.com/chugue/grow-ssr-deploy/files/15454109/1.PPT.pdf)
 
 <br>
@@ -31,34 +31,49 @@
   </tr>
   <tr>
     <td style="text-align:center; vertical-align:middle;"><img width="160px" src="https://avatars.githubusercontent.com/u/30003848?v=4" /></td>
-    <td style="text-align:center; vertical-align:middle;"><img width="160px" src="https://avatars.githubusercontent.com/u/153582123?v=4" /></td>
-    <td style="text-align:center; vertical-align:middle;"><img width="160px" src="https://avatars.githubusercontent.com/u/97007464?v=4"/></td>
-    <td style="text-align:center; vertical-align:middle;"><img width="160px" src="https://avatars.githubusercontent.com/u/81667935?v=4" /></td>
-    <td style="text-align:center; vertical-align:middle;"><img width="160px" src="https://avatars.githubusercontent.com/u/153582360?v=4" /></td>
+    <td style="text-align:center; vertical-align:middle;"><img width="160px" src="https://avatars.githubusercontent.com/u/153582415?v=4" /></td>
+    <td style="text-align:center; vertical-align:middle;"><img width="160px" src="https://avatars.githubusercontent.com/u/153585866?v=4"/></td>
+    <td style="text-align:center; vertical-align:middle;"><img width="160px" src="https://avatars.githubusercontent.com/u/126733434?v=4" /></td>
+    <td style="text-align:center; vertical-align:middle;"><img width="160px" src="https://avatars.githubusercontent.com/u/78337301?v=4" /></td>
   </tr>
   <tr>
     <td style="text-align:center; vertical-align:middle;"><a href="https://github.com/chugue">@chugue</a></td>
-    <td style="text-align:center; vertical-align:middle;"><a href="https://github.com/kjh5848">@kjh5848</a></td>
-    <td style="text-align:center; vertical-align:middle;"><a href="https://github.com/LifeIsOne">@LifeIsOne</a></td>
-    <td style="text-align:center; vertical-align:middle;"><a href="https://github.com/tkffkels93">@tkffkels93</a></td>
-    <td style="text-align:center; vertical-align:middle;"><a href="https://github.com/p4rksk">@p4rksk</a></td>
+    <td style="text-align:center; vertical-align:middle;"><a href="https://github.com/kjh5848">@yuzusim</a></td>
+    <td style="text-align:center; vertical-align:middle;"><a href="https://github.com/LifeIsOne">@codingbb</a></td>
+    <td style="text-align:center; vertical-align:middle;"><a href="https://github.com/tkffkels93">@HaSenugJin</a></td>
+    <td style="text-align:center; vertical-align:middle;"><a href="https://github.com/p4rksk">@greenpig4b</a></td>
   </tr>
 </table>
 
-> ## 기술 스택
-![기술스택](https://github.com/chugue/project-grow/assets/153585866/8f93f7a9-4368-4b70-830e-d3a9c2de545f)  
-* JDK 21
-* Springboot 3.2.2
-* 테스트 h2 DB
-* JAVAScript
-* HTML
-* CSS
-* Bootstrap
+<br>
+
+# 👉 기술 스택
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![BootStrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![AmazonAWS](https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+
+### Communication
+
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
 
 <br>
 
-> ## 기능 정리
-### [ 1단계 ] - 웹화면 UI 설계
+# 👉 주요 기능 정리
+> ### 1단계   (🟦: 기업, 🟨:개인)
+* #### 🟦🟨 화면 구축
+* #### 🟦🟨 테이블 설계
+* #### 🟦🟨 회원가입 / 로그인
+* #### 🟦🟨 메인 페이지 데이터 바인딩
+* #### 🟦 공고 CRUD 구현
+* #### 🟨 이력서 CRUD 구현
+  
 **1. 회원가입, 로그인**  
   * 회원가입 시, 필요한 정보 입력 받기
   * 로그인 시, 필요한 정보 입력 받기
