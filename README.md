@@ -1,5 +1,8 @@
 # GROW [ 구인ㆍ구직 프로젝트 ]
-![logo](https://github.com/chugue/project-grow/assets/153585866/f2ad7455-56f6-4895-8d65-94a5db14a179)
+
+<p align="center">
+  <img src="https://github.com/chugue/project-grow/assets/153585866/f2ad7455-56f6-4895-8d65-94a5db14a179"  style="width: 50%; height: auto;"/>
+</p>
 
 ___
 
